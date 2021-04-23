@@ -1,0 +1,9 @@
+export const colorRed = "rgba(249, 82, 81, 0.8)";
+export const colorBlue = "rgba(35, 104, 197, 0.3)";
+export const colorGreen = "rgba(79, 189, 134, 0.8)";
+export const colorYellow = "rgba(251, 192, 45, 0.9)";
+export const lightPink =  "#fff0f0";
+export const pink = "#ffe9e9";
+export const darkPink = "#f9c4d2";
+export const pinkBorder ="#b18597";
+export const pinkShadow = "#ffe3e2";
